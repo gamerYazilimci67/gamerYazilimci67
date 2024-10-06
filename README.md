@@ -1,9 +1,9 @@
-## **Hello, I am gamerYazilimci67, I am a software developer from Türkiye.**
+<h2 style="font-style:bold;" align="center">Hello, I am gamerYazilimci67, I am a software developer from Türkiye.</h2> 
 
 
 <div align="center">
- <h3 align="left">Languages and Tools:</h3>
- <p align="left">
+ <h3>Languages and Tools:</h3>
+ <p>
    <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
@@ -32,12 +32,12 @@
  </p>
 
  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gameryazilimci67&show_icons=true&locale=en&layout=compact&theme=dracula" alt="gameryazilimci67" />
+    <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gameryazilimci67&show_icons=true&locale=en&layout=compact&theme=dracula" alt="gameryazilimci67" />
  </p>
 
  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gameryazilimci67&show_icons=true&locale=en&theme=dracula" alt="gameryazilimci67" />
- </p>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=gameryazilimci67&show_icons=true&locale=en&theme=dracula" alt="gameryazilimci67" />
+ </p> 
 </div>
  
 
