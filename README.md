@@ -34,13 +34,7 @@
     
  </p>
 
- <!--<p>
-     <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gameryazilimci67&show_icons=true&locale=en&layout=compact&theme=dracula" alt="gameryazilimci67" />
- </p>-->
-
- <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gameryazilimci67&show_icons=true&locale=en&theme=dracula" alt="gameryazilimci67" />
- </p> 
+ 
 </div>
  
 
