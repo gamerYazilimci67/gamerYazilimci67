@@ -35,12 +35,12 @@
  </p>
 
  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gameryazilimci67&show_icons=true&locale=en&layout=compact&theme=dracula" alt="gameryazilimci67" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gameryazilimci67&theme=dracula&show_icons=true&locale=en&layout=compact" alt="gameryazilimci67" />
  </p>
 
 
  <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gameryazilimci67&show_icons=true&locale=en&theme=dracula" alt="gameryazilimci67" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gameryazilimci67&theme=dracula&show_icons=true&locale=en" alt="gameryazilimci67" />
  </p>
 
  <p>
