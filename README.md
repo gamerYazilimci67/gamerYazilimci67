@@ -39,11 +39,11 @@
  </p>
 
 
- <p>
+ <p align="left">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=gameryazilimci67&theme=dracula&show_icons=true&locale=en" alt="gameryazilimci67" />
  </p>
 
- <p>
+ <p align="right">
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gameryazilimci67&theme=dracula" alt="gameryazilimci67" />
  </p>
 
