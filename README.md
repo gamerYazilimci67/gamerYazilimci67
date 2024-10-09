@@ -39,7 +39,7 @@
  </p>
 
  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=gameryazilimci67&theme=dracula&show_icons=true&locale=en" alt="gameryazilimci67" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gameryazilimci67&theme=dracula&show_icons=true&locale=en" alt="gameryazilimci67" />
  </p>
 
        
