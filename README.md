@@ -44,7 +44,7 @@
 
        
 <p>
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gameryazilimci67&theme=dracula" alt="gameryazilimci67" /> 
+   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gameryazilimci67&theme=dracula" alt="gameryazilimci67" /> 
 </p>
    
  </div>
