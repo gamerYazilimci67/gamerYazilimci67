@@ -43,15 +43,15 @@
  </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gameryazilimci67&show_icons=true&locale=en&layout=compact&theme=dracula" alt="gameryazilimci67" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gameryazilimci67&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gameryazilimci67" />
 </p>
 
 <p>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=gameryazilimci67&show_icons=true&locale=en&theme=dracula" alt="gameryazilimci67" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=gameryazilimci67&show_icons=true&locale=en&theme=tokyonight" alt="gameryazilimci67" />
 </p>
 
 <p>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gameryazilimci67&theme=dracula" alt="gameryazilimci67" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gameryazilimci67&theme=tokyonight" alt="gameryazilimci67" />
 </p>
    
 
