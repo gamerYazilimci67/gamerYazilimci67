@@ -1,12 +1,21 @@
-# Hello I'm gamerYazilimci67. Developer from Türkiye! 👋
+# Hello I'm gamerYazilimci67. Developer from Türkiye! 👨‍💻 👋
 
-### Who Am I?
+### Who Am I? 🙋‍♂️
 
 I am fullstack develeoper from Türkiye 🇹🇷. 
 
 Türkiye'den fullstack yazılım geliştiricisiyim.
 
 Çok yaşa teknoloji üreten Türkiye!
+
+---
+
+### Who's my idol? 👨‍🎓
+
+I have two idols:
+
+- Abdulhamid Han (The 36th Ottoman Padishah)
+- Fatih Sultan Mehmet (The 7th Ottoman Padishah, CONQUEROR OF ISTANBUL 🇹🇷. ,Grand Turco, Kayser-i Rum)
 
 ---
 
