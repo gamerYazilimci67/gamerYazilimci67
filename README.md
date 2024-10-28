@@ -1,5 +1,25 @@
-<h1 align="center">Hello I'm gamerYazilimci67, I'm a fullstack developer from Türkiye!</h1>
+# Hello I'm gamerYazilimci67. Developer from Türkiye! 👋
 
+### Who Am I?
+
+I am fullstack develeoper from Türkiye 🇹🇷. 
+
+Türkiye'den fullstack yazılım geliştiricisiyim.
+
+Çok yaşa teknoloji üreten Türkiye!
+
+---
+
+### What is my hobbies?
+<!-- Why you look at this codes :)-->
+- Coding(Naturally 😄)
+- History
+- Operating Systems
+- Linux
+- Cyber Security
+- Astronomy
+
+---
 
 <div align="center">
  <h3>Languages and Tools:</h3>
@@ -41,18 +61,27 @@
     </a>
     
  </p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gameryazilimci67&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="gameryazilimci67" />
-</p>
-
-<p>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=gameryazilimci67&show_icons=true&locale=en&theme=tokyonight" alt="gameryazilimci67" />
-</p>
-
-<p>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gameryazilimci67&theme=tokyonight" alt="gameryazilimci67" />
-</p>
-   
-
 </div>
+
+<div style="display: flex; align-items: center;">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gameryazilimci67&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="gameryazilimci67" />
+ <img  src="https://github-readme-stats.vercel.app/api?username=gameryazilimci67&show_icons=true&locale=en&theme=tokyonight" alt="gameryazilimci67" />
+</div>
+
+### Languages And Tools (text):
+- Python
+- C
+- C++
+- C#
+- Go - Golang
+- HTML
+- CSS
+- Bootstrap
+- JS
+- nodeJS
+- Git
+- Linux
+- Bash
+- Arduino
+
+
