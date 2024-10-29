@@ -1,6 +1,6 @@
-# Hello I'm gamerYazilimci67. Developer from Türkiye! 👨‍💻 👋
+# Hello 🙋‍♂️ I'm gamerYazilimci67. Developer from Türkiye! 👨‍💻
 
-### Who Am I? 🙋‍♂️
+### Who Am I❓
 
 I am fullstack develeoper from Türkiye 🇹🇷. 
 
