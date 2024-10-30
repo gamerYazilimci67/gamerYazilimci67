@@ -4,32 +4,14 @@
 
 I am fullstack develeoper from Türkiye 🇹🇷. 
 
-Türkiye'den fullstack yazılım geliştiricisiyim.
-
-Çok yaşa teknoloji üreten Türkiye!
+Türkiye'den fullstack yazılım geliştiricisiyim 🇹🇷.
 
 ---
+[Web Site](gamerYazilimci67.github.io)
 
-### Who's my idol? 👨‍🎓
-
-I have two idols:
-
-- Abdulhamid Han (The 36th Ottoman Padishah)
-- Fatih Sultan Mehmet (The 7th Ottoman Padishah, CONQUEROR OF ISTANBUL 🇹🇷. ,Grand Turco, Kayser-i Rum)
+OS: Linux Mint 22
 
 ---
-
-### What is my hobbies?
-<!-- Why you look at this codes :)-->
-- Coding(Naturally 😄)
-- History
-- Operating Systems
-- Linux
-- Cyber Security
-- Astronomy
-
----
-
 <div align="center">
  <h3>Languages and Tools:</h3>
  <p>
@@ -77,20 +59,27 @@ I have two idols:
  <img  src="https://github-readme-stats.vercel.app/api?username=gameryazilimci67&show_icons=true&locale=en&theme=tokyonight" alt="gameryazilimci67" />
 </div>
 
-### Languages And Tools (text):
-- Python
-- C
-- C++
-- C#
-- Go - Golang
-- HTML
-- CSS
-- Bootstrap
-- JS
-- nodeJS
-- Git
+---
+
+### Who's my idol? 👨‍🎓
+
+I have two idols:
+
+- Abdulhamid Han (The 36th Ottoman Padishah)
+- Fatih Sultan Mehmet (The 7th Ottoman Padishah, CONQUEROR OF ISTANBUL 🇹🇷. ,Grand Turco, Kayser-i Rum)
+
+---
+
+### What is my hobbies?
+<!-- Why you look at this codes :)-->
+- Coding(Naturally 😄)
+- History
+- Operating Systems
 - Linux
-- Bash
-- Arduino
+- Cyber Security
+- Astronomy
+
+---
+
 
 
