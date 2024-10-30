@@ -1,5 +1,5 @@
 # Hello 🙋‍♂️ I'm gamerYazilimci67. Developer from Türkiye! 👨‍💻
-
+<!-- Why you look at this codes :)-->
 ### Who Am I❓
 
 I am fullstack develeoper from Türkiye 🇹🇷. 
@@ -10,6 +10,10 @@ Türkiye'den fullstack yazılım geliştiricisiyim 🇹🇷.
 [Web Site](https://gamerYazilimci67.github.io)
 
 OS: Linux Mint 22
+
+Football team I support: Beşiktaş JK 🇹🇷
+
+Details below.
 
 ---
 <div align="center">
@@ -71,7 +75,6 @@ I have two idols:
 ---
 
 ### What is my hobbies?
-<!-- Why you look at this codes :)-->
 - Coding(Naturally 😄)
 - History
 - Operating Systems
@@ -80,6 +83,13 @@ I have two idols:
 - Astronomy
 
 ---
+
+### What is my projects?
+| Project Name | Project Description| Project Language| Project GitHub | Latest Version |
+|--------------|--------------------|-----------------|----------------|----------------|
+|Anka Browser  | Web Browser        |Python           | [Anka Browser](https://github.com/gamerYazilimci67/Anka)| v1.5.2|
+|TermiNote     | Terminal-Based Note App| Python      |[TermiNote](https://github.com/gamerYazilimci67/TermiNote)| v2.7 |
+|NomTex        | Text Editor for Windows(deprecated project)| C# and .NET |[NomTex](https://github.com/gamerYazilimci67/NomTex)| v1.5|
 
 
 
