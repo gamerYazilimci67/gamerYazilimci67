@@ -75,7 +75,7 @@ I have two idols:
 ---
 
 ### What is my hobbies?
-- Coding(Naturally 😄)
+- Developing and Coding(Naturally 😄)
 - History
 - Operating Systems
 - Linux
