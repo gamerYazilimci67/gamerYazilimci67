@@ -58,10 +58,10 @@ Details below.
  </p>
 </div>
 
-<div style="display: flex; align-items: center;">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gameryazilimci45&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="gameryazilimci67" height="200" />
- <img  src="https://github-readme-stats.vercel.app/api?username=gameryazilimci45&show_icons=true&locale=en&theme=tokyonight" alt="gameryazilimci67" height="200" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gameryazilimci45&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="gameryazilimci67" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gameryazilimci45&show_icons=true&locale=en&theme=tokyonight" alt="gameryazilimci67" height="200" />
+</p>
 
 ---
 
