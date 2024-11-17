@@ -97,7 +97,7 @@ I have two idols:
 ### What is my projects?
 | Project Name | Project Description| Project Language| Project GitHub | Latest Version |
 |--------------|--------------------|-----------------|----------------|----------------|
-|Anka Browser  | Web Browser        |Python           | [Anka Browser](https://github.com/gamerYazilimci45/Anka)| v1.9 Beta|
+|Anka Browser  | Web Browser        |Python           | [Anka Browser](https://github.com/gamerYazilimci45/Anka)| v1.9 |
 |TermiNote     | Terminal-Based Note App| Python      |[TermiNote](https://github.com/gamerYazilimci45/TermiNote)| v2.7 |
 |NomTex        | Text Editor for Windows(deprecated project)| C# and .NET |[NomTex](https://github.com/gamerYazilimci45/NomTex)| v1.5|
 
