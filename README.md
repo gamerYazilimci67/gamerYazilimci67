@@ -2,9 +2,12 @@
 <!-- Why you look at this codes :)-->
 ### Who Am I❓
 
-I am fullstack develeoper from Türkiye 🇹🇷. 
+I am fullstack develeoper from Türkiye 🇹🇷. I am muslim and Turkish.
 
-Türkiye'den fullstack yazılım geliştiricisiyim 🇹🇷.
+Türkiye'den fullstack yazılım geliştiricisiyim 🇹🇷. Müslümanım ve Türküm.
+
+> İstisna sonuçlar istiyorsanız, müstesna koşullar altında çalışmak zorundasınız.
+> - Selçuk Bayraktar
 
 ---
 My Web Site : [Web Site](https://gamerYazilimci45.github.io)
@@ -75,12 +78,13 @@ Details below.
 
 ---
 
-### Who's my idol? 👨‍🎓
+### Who're my idols? 👨‍🎓
 
-I have two idols:
+I have three idols:
 
 - Abdulhamid Han (The 36th Ottoman Padishah)
 - Fatih Sultan Mehmet (The 7th Ottoman Padishah, CONQUEROR OF ISTANBUL 🇹🇷. ,Grand Turco, Kayser-i Rum)
+- Selçuk Bayraktar(Turkish engineer and businessman, Founding Chairman of T3(Turkiye Technology Team))
 
 ---
 
@@ -94,7 +98,7 @@ I have two idols:
 
 ---
 
-### What is my projects?
+### What are my projects?
 | Project Name | Project Description| Project Language| Project GitHub | Latest Version |
 |--------------|--------------------|-----------------|----------------|----------------|
 |Anka Browser  | Web Browser        |Python           | [Anka Browser](https://github.com/gamerYazilimci45/Anka)| v1.9 |
