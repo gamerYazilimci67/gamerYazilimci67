@@ -1,13 +1,16 @@
 # Hello 🙋‍♂️ I'm gamerYazilimci45. Developer from Türkiye! 👨‍💻
 <!-- Why you look at this codes :)-->
 ### Who Am I❓
-
+<img src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAd/yetopen.gif" width = "150" height="150" />
 I am fullstack develeoper from Türkiye 🇹🇷. I am muslim and Turkish. ☪ 🇹🇷
 
 Türkiye'den fullstack yazılım geliştiricisiyim 🇹🇷. Müslümanım ve Türküm.☪ 🇹🇷
 
 > İstisna sonuçlar istiyorsanız, müstesna koşullar altında çalışmak zorundasınız.
 > - Selçuk Bayraktar
+
+
+
 
 ---
 My Web Site : [Web Site](https://gamerYazilimci45.github.io)
