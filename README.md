@@ -17,16 +17,7 @@ Türkiye'den fullstack yazılım geliştiricisiyim 🇹🇷. Müslümanım ve T�
 
 
 
----
-My Web Site : [Web Site](https://gamerYazilimci45.github.io)
 
-OS: Linux Mint 22
-
-Football team I support: Beşiktaş JK 🇹🇷
-
-Details below.
-
----
 <h3>Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -40,6 +31,16 @@ Details below.
   <img src="https://github-readme-stats.vercel.app/api?username=gameryazilimci45&show_icons=true&locale=en&theme=tokyonight" alt="gameryazilimci67" height="200" />
 </p>
 
+---
+My Web Site : [Web Site](https://gamerYazilimci45.github.io)
+
+OS: Linux Mint 22
+
+Football team I support: Beşiktaş JK 🇹🇷
+
+Details below.
+
+---
 ---
 
 ### Who're my idols? 👨‍🎓
