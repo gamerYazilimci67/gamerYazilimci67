@@ -5,6 +5,8 @@
  <img src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAd/yetopen.gif" width = "150" height="150" />
 </div>
 
+![](https://komarev.com/ghpvc/?username=gamerYazilimci45&color=blue)
+
 ### Who Am I❓
 
 I am fullstack develeoper from Türkiye 🇹🇷. I am muslim and Turkish. ☪ 🇹🇷
@@ -40,7 +42,6 @@ Football team I support: Beşiktaş JK 🇹🇷
 
 Details below.
 
----
 ---
 
 ### Who're my idols? 👨‍🎓
