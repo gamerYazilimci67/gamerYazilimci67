@@ -20,7 +20,6 @@ Türkiye'den fullstack yazılım geliştiricisiyim 🇹🇷. Müslümanım ve T�
 
 
 
-
 <h3>Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,7 +27,13 @@ Türkiye'den fullstack yazılım geliştiricisiyim 🇹🇷. Müslümanım ve T�
   </a>
 </p>
 
-
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)
+![](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gameryazilimci45&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="gameryazilimci67" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=gameryazilimci45&show_icons=true&locale=en&theme=tokyonight" alt="gameryazilimci67" height="200" />
