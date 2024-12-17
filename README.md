@@ -71,11 +71,12 @@ I have three idols:
 ---
 
 ### What are my projects?
-| Project Name | Project Description| Project Language| Project GitHub | Latest Version |
-|--------------|--------------------|-----------------|----------------|----------------|
-|Anka Browser  | Web Browser        |Python           | [Anka Browser](https://github.com/gamerYazilimci45/Anka)| v1.9.7 |
-|TermiNote     | Terminal-Based Note App| Python      |[TermiNote](https://github.com/gamerYazilimci45/TermiNote)| v2.7 |
-|NomTex        | Text Editor for Windows(deprecated project)| C# and .NET |[NomTex](https://github.com/gamerYazilimci45/NomTex)| v1.5|
+| Project Name | Project Description| Project Language| Project GitHub | 
+|--------------|--------------------|-----------------|----------------|
+|Anka Browser  | Web Browser        |Python           | [Anka Browser](https://github.com/gamerYazilimci45/Anka)|
+|catecli       | CLI tool           |C++              | [catecli](https://github.com/gamerYazilimci45/catecli)
+|TermiNote     | Terminal-Based Note App| Python      |[TermiNote](https://github.com/gamerYazilimci45/TermiNote)|
+|NomTex        | Text Editor for Windows(deprecated project)| C# and .NET |[NomTex](https://github.com/gamerYazilimci45/NomTex)| 
 
 
 
